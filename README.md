@@ -307,3 +307,54 @@ python scripts/prepare_physical_rig_previews.py
 ## License
 
 **MIT License**
+
+---
+
+## Project Images
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="project_photos/Dashboard_1.png" width="100%" alt="System Header & Overview">
+      <br>
+    </td>
+    <td align="center" width="33%">
+      <img src="project_photos/Dashboard_2.png" width="100%" alt="Core ML Architecture">
+      <br>
+    </td>
+    <td align="center" width="33%">
+      <img src="project_photos/Dashboard_3.png" width="100%" alt="Pillar 1: CWRU Anomaly Detection">
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="project_photos/Dashboard_4.png" width="100%" alt="Pillar 2: CWRU Fault Classification">
+      <br>
+    </td>
+    <td align="center" width="33%">
+      <img src="project_photos/Dashboard_5.png" width="100%" alt="Pillar 3: NASA FD001 RUL Prediction">
+      <br>
+    </td>
+    <td align="center" width="33%">
+      <img src="project_photos/Dashboard_6.png" width="100%" alt="Live Physical-Rig Telemetry Monitor">
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="project_photos/Dashboard_7.png" width="100%" alt="Historical Physical-Rig ML Analysis">
+      <br>
+    </td>
+    <td align="center" width="33%">
+      <img src="project_photos/Rig_1.jpeg" width="100%" alt="Physical Motor Test Bench">
+      <br>
+    </td>
+    <td align="center" width="33%">
+      <img src="project_photos/Rig_2.jpeg" width="100%" alt="ESP32 DAQ & Sensor Probes">
+      <br>
+    </td>
+  </tr>
+</table>
+
+---
