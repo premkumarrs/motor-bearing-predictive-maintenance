@@ -1,0 +1,15 @@
+level,metric,value
+overall,accuracy,0.784320987654321
+overall,balanced_accuracy,0.784320987654321
+overall,precision_macro,0.8418662150017456
+overall,recall_macro,0.784320987654321
+overall,f1_macro,0.7869241577596927
+class_normal,precision,0.9363636363636364
+class_normal,recall,0.6485185185185185
+class_normal,f1_score,0.7663019693654267
+class_imbalance,precision,0.9591439688715954
+class_imbalance,recall,0.7303703703703703
+class_imbalance,f1_score,0.8292682926829268
+class_misalignment,precision,0.6300910397700048
+class_misalignment,recall,0.9740740740740741
+class_misalignment,f1_score,0.7652022112307245

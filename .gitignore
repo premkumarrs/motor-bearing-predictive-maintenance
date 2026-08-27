@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# PlatformIO build artifacts & cache
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code (machine-specific generated files)
+.vscode/*
+!.vscode/extensions.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.old

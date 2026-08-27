@@ -1,0 +1,16 @@
+level,metric,value
+window,accuracy,0.9857142857142858
+window,balanced_accuracy,0.978448275862069
+window,precision_macro,0.9896694214876033
+window,recall_macro,0.978448275862069
+window,f1_macro,0.9834644771353632
+window,f1_weighted,0.9855432285812032
+window,roc_auc_ovr_macro,0.9998801420329526
+source,accuracy,1.0
+source,balanced_accuracy,1.0
+source,precision_macro,1.0
+source,recall_macro,1.0
+source,f1_macro,1.0
+source,f1_weighted,1.0
+source,roc_auc_ovr_macro,
+baseline,majority_accuracy,0.3314285714285714

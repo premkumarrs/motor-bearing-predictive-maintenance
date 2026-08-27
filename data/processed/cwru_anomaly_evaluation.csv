@@ -1,0 +1,31 @@
+level,metric,value
+window,accuracy,0.9989241527703067
+window,balanced_accuracy,0.9915254237288136
+window,precision,0.9988525530694206
+window,recall,1.0
+window,f1,0.9994259471871412
+window,specificity,0.9830508474576272
+window,false_positive_rate,0.01694915254237288
+window,roc_auc,1.0
+window,pr_auc,1.0
+window,true_negatives,116.0
+window,false_positives,2.0
+window,false_negatives,0.0
+window,true_positives,1741.0
+source,accuracy,1.0
+source,balanced_accuracy,1.0
+source,precision,1.0
+source,recall,1.0
+source,f1,1.0
+source,specificity,1.0
+source,false_positive_rate,0.0
+source,roc_auc,1.0
+source,pr_auc,1.0
+source,true_negatives,1.0
+source,false_positives,0.0
+source,false_negatives,0.0
+source,true_positives,60.0
+class_normal,Specificity (Normal Inlier Rate),0.9830508474576272
+class_ball,Fault Recall (Anomaly Detection Rate),1.0
+class_inner_race,Fault Recall (Anomaly Detection Rate),1.0
+class_outer_race,Fault Recall (Anomaly Detection Rate),1.0
