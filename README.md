@@ -1,5 +1,4 @@
 # Motor Bearing Predictive Maintenance
-> An end-to-end machine learning framework for industrial motor bearing condition monitoring, fault diagnosis, and remaining useful life estimation.
 
 ## About the Project
 Rolling element bearing degradation is one of the primary causes of unexpected downtime and catastrophic failures in rotating machinery. This project implements a multi-pillar predictive maintenance pipeline combining unsupervised anomaly detection, multi-class fault classification, and prognostic Remaining Useful Life (RUL) estimation. The system evaluates benchmark industrial datasets alongside an edge-level IoT telemetry DAQ prototype on physical motor hardware.
