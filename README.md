@@ -7,8 +7,6 @@
 [![ESP32](https://img.shields.io/badge/ESP32-Hardware-E7352C?logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Embedded-F5822A?logo=platformio&logoColor=white)](https://platformio.org/)
 
-An end-to-end machine learning framework for rolling element bearing condition monitoring, multi-class fault diagnostics, and remaining useful life (RUL) estimation, combined with an edge-level IoT telemetry acquisition prototype.
-
 ---
 
 ## About the Project
