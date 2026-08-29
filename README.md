@@ -174,7 +174,6 @@ To guarantee rigorous, generalizable performance:
 
 ## Hardware & Edge DAQ
 
-### Embedded Hardware Architecture
 * **Microcontroller Unit:** Espressif ESP32-WROOM-32 (Dual-Core Tensilica LX6 @ 240 MHz, FreeRTOS).
 * **Vibration Accelerometer:** Analog Devices ADXL345 (3-axis digital sensor, I2C interface @ 400 kHz, $\pm 16g$ dynamic range, 100 Hz output data rate).
 * **Temperature Sensor:** Maxim Integrated DS18B20 (1-Wire digital thermometer, probe mounted directly on bearing housing).
