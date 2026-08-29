@@ -180,15 +180,6 @@ To guarantee rigorous, generalizable performance:
 * **Temperature Sensor:** Maxim Integrated DS18B20 (1-Wire digital thermometer, probe mounted directly on bearing housing).
 * **Rotational Speed Sensor:** Hall-effect magnetic proximity sensor counting shaft rotation pulses via hardware interrupt (FALLING edge on GPIO 5).
 * **Data Transmission:** Formatted ASCII CSV serial packets over USB UART at **115,200 baud**:
-  ```text
-  timestamp_ms,temperature_C,accel_x,accel_y,accel_z,rpm
-  1250,24.50,0.1250,-0.0450,9.8100,1450.0
-  ```
-
-### Motor Test Bench Specifications
-* **Motor Make / Model:** `[TODO: Specify motor manufacturer, model number, rated power (W/HP), and operating voltage]`
-* **Bearing Model:** `[TODO: Specify bearing model, pitch diameter, and ball count]`
-* **Drive Configuration:** Direct-drive shaft coupling with mechanical imbalance disc and adjustable alignment mounts.
 
 ---
 
